@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Huzaifa Irfan">
+
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <script defer src="/socket.io/socket.io.js"></script>
+    
+    <script defer src="js/controller.js"></script>
+    <script defer src="js/display.js"></script>
+    <script defer src="js/engine.js"></script>
+    <script defer src="game/game.js"></script>
+    <script defer src="game/main.js"></script>
+
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Game</title>
+</head>
+<body>
+
+
+<div id= "chat">
+    
+    <h3 align="center">Shout Box</h3>
+    <div class="container">
+
+            <div id="chatbox">
+        
+        
+            </div>
+        
+        
+        
+        
+                <form  id="inpform" autocomplete="off">
+                        <!-- onsubmit="msgsubmit();return false" -->
+                    <input type="text" class="form-control" id="inpbox" required>
+                    <!-- <button type="submit" id="btn" class="btn-success">Send</button>
+                     -->
+                </form>
+                    
+            </div>
+        
+
+
+</div>
+    
+
+
+        <canvas></canvas>
+
+      
+
+
+</body>
+</html>

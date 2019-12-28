@@ -1,0 +1,26 @@
+{
+    "name":"mario",
+    "type":"player",
+    "location":"sprites/animations/mario/",
+    
+"sprites_url":[
+    "i_r.png","j_r.png","m0_r.png","m1_r.png",
+    "i_l.png","j_l.png","m0_l.png","m1_l.png"
+    
+
+],
+
+
+    "animations":{
+
+        "i_r":[0],
+        "j_r":[1],
+        "m_r":[2,3],
+
+        "i_l":[4],
+        "j_l":[5],
+        "m_l":[6,7]
+
+    }
+
+}
