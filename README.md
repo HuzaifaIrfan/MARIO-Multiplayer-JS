@@ -1,2 +1,2 @@
-# mario-js
-## game player lags after few moments
+# MARIO-Multiplayer-JS
+## BUG : Game Player lags after few moments
