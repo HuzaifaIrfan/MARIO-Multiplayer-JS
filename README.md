@@ -11,10 +11,10 @@ Developed on Dec 28, 2019
 By Huzaifa Irfan
 
 ## GamePlay Screen Shot
-![Game Play](/img/gameplay.png)
+![Game Play](img/gameplay.png)
 
 ## MP GamePlay Screen Shot
-![MP Game Play](/img/mp.png)
+![MP Game Play](img/mp.png)
 
 
 ## Requirments 
